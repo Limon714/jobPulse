@@ -1,0 +1,18 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+button{
+    background: #000;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border: none;
+    
+}
+.spa{
+     display: grid;
+     place-items: center;
+}
