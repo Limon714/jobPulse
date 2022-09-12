@@ -16,3 +16,6 @@ button{
      display: grid;
      place-items: center;
 }
+.spa > *{
+    margin-top: 10px;
+}
