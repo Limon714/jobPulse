@@ -28,7 +28,7 @@ const Loadmore = () => {
               </div>
             ))}
           </div>
-          <button onClick={showMoreItems}>Load More</button>
+          <button onClick={showMoreItems}>Load More..</button>
         </div>
       </>
     );
