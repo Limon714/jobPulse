@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.card{
+    background-color: rgb(70, 64, 64);
+    color: rgb(210, 198, 30);
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.id{
+   text-align: center;
+   border: 2px solid rgb(5, 207, 5);
+   width: 20px;
+}
+button{
+    margin: 20px auto;
+    background-color: chocolate;
+    border: none;
+    padding: 10px;
+    outline: none;
+    display: flex;
+    align-items: center;
+}

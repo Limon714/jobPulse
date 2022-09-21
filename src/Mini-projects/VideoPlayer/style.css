@@ -1,0 +1,29 @@
+body{
+    background: #000;
+}
+.grid-btn{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    grid-gap: 50px;
+}
+.btn{
+    background-color: rgb(156, 202, 27);
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 20px;
+    font-weight: bold;
+}
+.btn-pause{
+    background-color: rgb(63, 83, 5);
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 18px;
+    font-weight: bold;
+}
+video{
+   margin-left: 400px;
+}

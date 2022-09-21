@@ -1,12 +1,12 @@
-import Loadmore from "./Mini-projects/Loadmore";
-import "./HOOK_USESTATE/style.css";
+import Play from "./Mini-projects/VideoPlayer/Play";
+import './Mini-projects/VideoPlayer/style.css'
 function App() {
   
   return (
     <>
       <div>
         
-      <Loadmore />
+          <Play />
          
      </div>
     </>
