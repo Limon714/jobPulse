@@ -1,12 +1,12 @@
-import Play from "./Mini-projects/VideoPlayer/Play";
-import './Mini-projects/VideoPlayer/style.css'
+import Anisul from "./Form/Anisul";
+import "./HOOK_USESTATE/style.css"
 function App() {
   
   return (
     <>
       <div>
         
-          <Play />
+          <Anisul />
          
      </div>
     </>

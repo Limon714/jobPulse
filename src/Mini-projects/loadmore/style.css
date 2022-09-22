@@ -9,17 +9,17 @@
     margin-top: 20px;
     padding: 10px;
 }
-.id{
-   text-align: center;
-   border: 2px solid rgb(5, 207, 5);
-   width: 20px;
-}
+
 button{
-    margin: 20px auto;
+    margin: 10px auto;
     background-color: chocolate;
     border: none;
     padding: 10px;
     outline: none;
     display: flex;
     align-items: center;
+}
+.nm{
+    padding: 10px;
+    margin-top: 10px auto;
 }
