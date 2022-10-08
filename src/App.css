@@ -1,0 +1,22 @@
+body{
+    background-color: #333;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background: rgb(64, 128, 27);
+    padding: 14px;
+    border: none;
+    outline: none;
+    margin: 10px;
+}
+
+input{
+    padding: 9px;
+    font-size: 18px;
+}

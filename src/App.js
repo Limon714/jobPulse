@@ -1,13 +1,17 @@
-import Anisul from "./Form/Anisul";
-import "./HOOK_USESTATE/style.css"
+import './App.css'
+// import UseRef from './USERef/UseRef'
+// import Parent from './USERef/Forward/Parent';
+// import Parent from './UseImperative/Parent'
+// import Reducer from './useReducer/Reducer';
+import Child from './UseContext/Child';
 function App() {
   
   return (
     <>
       <div>
-        
-          <Anisul />
-         
+     
+        <Child />
+       
      </div>
     </>
   );

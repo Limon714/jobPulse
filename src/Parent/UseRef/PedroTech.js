@@ -9,7 +9,7 @@ const PedroTech = () => {
   return (
     <>
       <div className="spa">
-        <input type="text" value="Whats up" ref={input} />
+        <input  value="Whats up" ref={input} />
         <button onClick={onplaceholder}>Change Placeholder</button>
       </div>
     </>
