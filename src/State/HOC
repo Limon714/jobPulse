@@ -1,0 +1,35 @@
+import "./styles.css";
+import {useState} from 'react'
+export default function HigherOrderComponent() {
+  return (
+    <div className="App">
+      <h1>Hello CodeSandbox</h1>
+     
+      <Hoc cmp = {Counter} />
+      <Hock cmp = {Counter} />
+    </div>
+  );
+}
+function Hoc (Props) {
+  return(
+   <h1 style = {{backgroundColor:'red', padding: '10px'}}><Props.cmp /> </h1>
+  )
+}
+function Hock (Props) {
+  return(
+   <h1 style = {{backgroundColor:'green', padding: '10px'}}><Props.cmp /> </h1>
+  )
+}
+
+
+function Counter (){
+  const [count, setCount] = useState(0)
+    return (
+      <>
+       <div>
+        <h1> {count} </h1>
+        <button onClick={()=>setCount(count +1)}> Red Counter </button>
+       </div>
+      </>
+    )
+}
