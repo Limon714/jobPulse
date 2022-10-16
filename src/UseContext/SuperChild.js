@@ -4,7 +4,7 @@ const SuperChild = () => {
     const { AppColor } = useContext(globalContext);
   return (
     <div>
-      <h1 style={{ color: AppColor }}>SuperChild Context API</h1>
+      <h1 style={{ color: AppColor }}> Super Child Context API</h1>
     </div>
   );
 }
