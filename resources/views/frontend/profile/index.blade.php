@@ -139,10 +139,10 @@
                         <p>Member On: <strong class="badge bg-secondary badge-primary"> {{ date('F d Y', strtotime(Auth::user()->created_at)) }}</strong> </p>
 
                         @if (!empty(Auth::user()->profile->cover_letter))
-                            <p>Download cover letter: <strong class="badge bg-info badge-primary"><a class="text-white" target="_blank" href="{{ url('storage/'.Auth::user()->profile->cover_letter) }}"> Cover letter</a></strong></p>
+                            <p>Download cover letter: <strong class="badge bg-info badge-primary"><a class="text-white" target="_blank" href="{{ url('storage/app/'.Auth::user()->profile->cover_letter) }}"> Cover letter</a></strong></p>
                         @endif
                         @if (!empty(Auth::user()->profile->resume))
-                            <p>Download resume: <strong class="badge bg-info badge-primary"><a  class="text-white"target="_blank" href="{{ url('storage/'.Auth::user()->profile->resume) }}"> Resume</a> </strong></p>
+                            <p>Download resume: <strong class="badge bg-info badge-primary"><a  class="text-white"target="_blank" href="{{ url('storage/app/'.Auth::user()->profile->resume) }}"> Resume</a> </strong></p>
                         @endif
 
                     </div>

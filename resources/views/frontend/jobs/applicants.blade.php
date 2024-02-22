@@ -31,7 +31,7 @@
                                     
                                   
                                     <th scope="col">Sl:</th>
-                                    <th scope="col">Nababur:</th>
+                                    <th scope="col">Name:</th>
                                  
                                     <th scope="col">Email:</th>
                                     <th scope="col">Gender:</th>
