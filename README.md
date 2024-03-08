@@ -24,11 +24,6 @@ Watch the video
 
 ![screencapture-127-0-0-1-8000-dashboard-candidates-2023-09-01-20_36_08](https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script/assets/8381528/fe0aed72-058c-4877-9f57-cf23cd3e1eb8)
 
-![screencapture-127-0-0-1-8000-company-create-2023-09-01-20_34_26](https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script/assets/8381528/1d1e38fb-7d4d-492e-9593-834383781168)
-
-![screencapture-127-0-0-1-8000-company-create-2023-09-01-20_34_26](https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script/assets/8381528/334b0d55-3a8d-48f4-aa6b-b4674e76c4d4)
-
-![screencapture-127-0-0-1-8000-category-1-healthcare-2023-09-01-20_32_53](https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script/assets/8381528/2231688a-89b7-41a4-9c1d-5900526a582a)
 
 
 
