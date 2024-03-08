@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.adminName', 'Dashboard | JobBoard') }}</title>
+    <title>{{ config('app.adminName', 'Dashboard | JobPulse') }}</title>
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="https://dw3i9sxi97owk.cloudfront.net/uploads/thumbs/db9c4e1327eb8fe5e9395a4b04e1ea4a_70x70.jpg" type="image/png">

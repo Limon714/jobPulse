@@ -15,6 +15,25 @@
       </div>
     </div>
 
+    <div class="row">
+      <div class="col-md-12 text-center mt-5">
+          <div class="featured-title">
+              <h2>Top Companies</h2>
+              <div class="container">
+                  <div class="row">
+                      <div class="col">
+                          <img src="/uploads/logo/logo1.png" alt="">
+                      </div>
+                      <div class="col"><img src="/uploads/logo/logo2.png" alt=""></div>
+                      <div class="col"><img src="/uploads/logo/logo3.png" alt=""></div>
+                      <div class="col"><img src="/uploads/logo/logo4.png" alt=""></div>
+                      <div class="col"><img src="/uploads/logo/logo5.png" alt=""></div>
+                  </div>
+              </div>
+          </div>
+        </div>
+  </div>
+
     
     @include('frontend/partials.category')
     @include('frontend/partials.hero')
