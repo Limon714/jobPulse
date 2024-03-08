@@ -5,8 +5,8 @@
       <div class="row">
         <div class="col-md-4">
           <h3 class="footer-heading mb-4 text-white">About</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos rem ullam, placeat amet.</p>
-          <p><a href="#" class="btn btn-primary pill text-white px-4">Read More</a></p>
+          <p class="text-justify">Our journey has been marked by milestones of innovation, from pioneering advanced search algorithms to introducing AI-driven matching technologies. We take pride in our role as a catalyst for career growth, empowering individuals to pursue their professional aspirations with confidence.</p>
+          
         </div>
         <div class="col-md-6">
           <div class="row">
@@ -50,7 +50,7 @@
         <div class="col-md-12">
           <p>
           
-          Copyright &copy; </script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This JobBoard develop by <a href="https://limonislam.xyz/" target="_blank" >Limon Islam</a>
+          Copyright &copy; </script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This JobPulse develop by <a href="https://limonislam.xyz/" target="_blank" >Limon Islam</a>
 
           </p>
         </div>

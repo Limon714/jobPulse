@@ -37,6 +37,7 @@ Route::get('/email/verify', function () {
 
 // Home Routes
 Route::get('/', [JobController::class, 'index']);
+Route::get('/jobpage', [AboutController::class, 'jobpage'])->name('jobpage');
 Route::get('/about', [AboutController::class, 'about'])->name('about');
 Route::get('/home', [HomeController::class, 'index'])->name('home');
 Route::get('/jobs/create', [JobController::class, 'create'])->name('job.create');
