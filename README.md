@@ -54,7 +54,7 @@ Watch the video
   </h2>
   <blockquote>
     <p dir="auto">
-      <a href="https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script.git">https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script.git</a>
+      <a href="https://github.com/nababur/JobFinder-Job-Portal-Laravel-Vue-Script.git">https://github.com/Limon714/jobPulse.git</a>
     </p>
   </blockquote>
   <br>
