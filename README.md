@@ -5,7 +5,7 @@
 <h3> Watch the video </h3>
 https://drive.google.com/drive/folders/1owLBv04FbpplaGzdNDutBbcj1z8UtaJ4?usp=sharing
 
-<br>
+<br/>
 
 ![1](https://github.com/Limon714/jobPulse/assets/72975868/ba7bc1ae-a41c-4883-b10c-5ea276ae3b2c)
 
